@@ -3,8 +3,8 @@ VEHICLE MONITORING SYSTEM
 MEMBER:
 
 MARC JASON D. CATILO  - 100
-
 Screen shots of the project:
+
 <img width="245" alt="7" src="https://github.com/JasonC0de/PYTHON-FINAL./assets/143742546/a5d1ee5d-8af5-457e-9cad-5a171857fb78">
 <img width="244" alt="6" src="https://github.com/JasonC0de/PYTHON-FINAL./assets/143742546/a89761f2-6b2e-4196-ac86-6ffad9b2a1f4">
 <img width="244" alt="5" src="https://github.com/JasonC0de/PYTHON-FINAL./assets/143742546/2cbaed01-46d2-4592-a3df-55b84284b084">
